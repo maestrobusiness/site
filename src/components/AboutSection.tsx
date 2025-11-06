@@ -35,7 +35,7 @@ export default function AboutSection({ language }: AboutSectionProps) {
           <div className="relative">
             <div className="absolute -inset-4 bg-gradient-to-r from-[#C9A962]/20 to-transparent rounded-lg blur-xl"></div>
             <img
-              src="https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=1200"
+              src="/Maestro_Business_Logo_Ultra_Premium_HQ (1).png"
               alt="Business Strategy"
               className="relative rounded-lg shadow-2xl hover:shadow-gold transition-all duration-500 border border-[#C9A962]/30"
             />

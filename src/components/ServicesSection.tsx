@@ -56,35 +56,35 @@ export default function ServicesSection({ language }: ServicesSectionProps) {
           title: 'Tax Planning and Fiscal Recovery',
           description:
             'Legal reduction of tax burden and recovery of tax credits with customized strategies.',
-          gif: 'https://media.giphy.com/media/gEvab1ilmJjbziplJO/giphy.gif',
+          gif: 'https://images.pexels.com/photos/6077983/pexels-photo-6077983.jpeg',
         },
         {
           icon: Handshake,
           title: 'Business M&A Intermediation',
           description:
             'We connect qualified buyers and sellers, structuring strategic and profitable deals.',
-          gif: 'https://media.giphy.com/media/l3q2K6AIJULvIx3NEv/giphy.gif',
+          gif: 'https://img.freepik.com/free-photo/businessmen-analyzing-business-plan-tablet_23-2148252119.jpg',
         },
         {
           icon: Shield,
           title: 'Asset Protection and Corporate Economy',
           description:
             'Intelligent asset protection and corporate structuring to safeguard your wealth.',
-          gif: 'https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif',
+          gif: 'https://images.pexels.com/photos/34103766/pexels-photo-34103766/free-photo-of-empire-state-building-against-blue-sky.jpeg',
         },
         {
           icon: DollarSign,
           title: 'Fundraising and Strategic Expansion',
           description:
             'Connection with investors and capital operation structuring for accelerated growth.',
-          gif: 'https://media.giphy.com/media/3o7TKU8RsvmBGCwWxO/giphy.gif',
+          gif: 'https://uploads.bpmoney.com.br/2023/09/ibovespa-grafico.jpg',
         },
         {
           icon: Building2,
           title: 'Business, Holdings and Commercial Restructuring',
           description:
             'Creation of holdings, business reorganization, and structures that maximize results.',
-          gif: 'https://media.giphy.com/media/lSIpZMfvLHgvN5vQ2p/giphy.gif',
+          gif: 'https://img.freepik.com/premium-photo/business-man-working-with-laptop-young-business-man-thinking-concentrated-work_1715-18593.jpg',
         },
       ],
     },
